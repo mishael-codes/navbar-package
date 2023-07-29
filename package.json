@@ -1,0 +1,24 @@
+{
+  "name": "res-sidebar",
+  "version": "1.0.0",
+  "description": "A responsive sidebar",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mishael-codes/navbar-papackage.git"
+  },
+  "keywords": [
+    "responsive",
+    "navbar",
+    "sidebar"
+  ],
+  "author": "mishael-codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishael-codes/navbar-papackage/issues"
+  },
+  "homepage": "https://github.com/mishael-codes/navbar-papackage#readme"
+}
